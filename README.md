@@ -35,7 +35,7 @@ Provide details about the dataset.
 
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
 |---------------|----------|-----|-----------|--------|----|-----|
-| Logistic Regression |  |  |  |  |  |  |
+| Logistic Regression | 0.901250 |  |  |  |  |  |
 | Decision Tree |  |  |  |  |  |  |
 | kNN |  |  |  |  |  |  |
 | Naive Bayes |  |  |  |  |  |  |
